@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "parent_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Laptops",
+    "parent_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Smartphones",
+    "parent_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Tablets",
+    "parent_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Shirt",
+    "parent_id": 1
+  },
+  {
+    "id": 7,
+    "name": "T-Shirt",
+    "parent_id": 1
+  },
+  {
+    "id": 8,
+    "name": "Casual Shoes",
+    "parent_id": 1
+  },
+  {
+    "id": 9,
+    "name": "Track Pant",
+    "parent_id": 1
+  },
+  {
+    "id": 10,
+    "name": "Face Wash",
+    "parent_id": 3
+  },
+  {
+    "id": 11,
+    "name": "Body lotion",
+    "parent_id": 3
+  },
+  {
+    "id": 11,
+    "name": "Home Theater Systems",
+    "parent_id": 2
+  },
+  {
+    "id": 12,
+    "name": "Projectors",
+    "parent_id": 2
+  },
+  {
+    "id": 13,
+    "name": "Headphones",
+    "parent_id": 2
+  },
+  {
+    "id": 14,
+    "name": "Earbuds",
+    "parent_id": 2
+  }
+]
